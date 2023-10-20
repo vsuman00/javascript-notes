@@ -2,7 +2,7 @@
 
 // alert(3 + 3) // we are using nodeJS, not browser
 
-let name = "hitesh" // string
+let name = "Vaibhav" // string
 let age = 18 // integer
 let isLoggedIn = false // boolean
 let state; // undefined
