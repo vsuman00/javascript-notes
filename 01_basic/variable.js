@@ -1,5 +1,5 @@
-const accountId = 144553
-let accountEmail = "hitesh@google.com"
+const accountId = 696969
+let accountEmail = "vaibhav@google.com"
 var accountPassword = "12345"
 accountCity = "Jaipur" // takes automatic 'var'
 let accountState; // print Undefined 
@@ -7,7 +7,7 @@ let accountState; // print Undefined
 // accountId = 2 // not allowed, due to 'const' variable
 
 
-accountEmail = "hc@hc.com"
+accountEmail = "vsuman@gmail.com"
 accountPassword = "21212121"
 accountCity = "Bengaluru"
 
